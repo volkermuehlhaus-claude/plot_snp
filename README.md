@@ -50,5 +50,6 @@ https://scikit-rf.readthedocs.io/en/latest/tutorials/index.html
 
 `pip install plot_snp` installs scikit-rf and matplotlib.
 
+# Related tools
 
-
+plot_snp is one of several open-source tools for EM simulation of IHP SG13G2 layouts, from KLayout to S-parameters and circuit models. For an overview, see [Which tool for what](https://github.com/VolkerMuehlhaus/gds2palace_ihp_sg13g2/blob/main/doc/toolchain_overview.md).
